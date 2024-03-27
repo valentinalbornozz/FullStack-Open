@@ -1,8 +1,12 @@
-# React + Vite
+## Instrucciones de Uso
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Instala las dependencias utilizando npm o yarn:
+   ```
+   npm install o yarn
+   ```
+4. Inicia la aplicación en modo de desarrollo:
+   ```
+   npm run dev o yarn dev
+   ```
+5. Abre tu navegador y visita http://localhost:5173 para ver el sitio web en acción.
+6. Explora la lista de contactos e interactua con la misma
